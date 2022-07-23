@@ -4,7 +4,7 @@
 #### Features
 - No laggy in fight with weapons
 - No internet abuse from your server
-- You can set custom warn
+- You can set custom warn count
 - Easy config for set all thing
 
 #### Configuration:
