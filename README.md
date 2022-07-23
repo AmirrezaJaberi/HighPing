@@ -7,7 +7,7 @@
 - You can set custom warn
 - Easy config for set all thing
 
-#### Log configuration:
+#### Configuration:
 ```
 - Open `config.lua`
 ```
