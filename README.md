@@ -1,8 +1,6 @@
 <h1 align='center'><center><img src="https://cdn.discordapp.com/attachments/973528065302986753/1000314988046602360/Logo.png" alt="what image shows" height="20" width="20"></center>   FIRE SCRIPTS   <center><img src="https://cdn.discordapp.com/attachments/973528065302986753/1000314988046602360/Logo.png" alt="what image shows" height="20" width="20"></center></a></h1>
 <p align='center'><b><a href='https://discord.gg/BGZWaFzaUP'>Discord</a></b></h5>
 
-#FiveM Best Anti Cheat
-
 #### Features
 - No laggy in fight with weapons
 - No internet abuse from your server
