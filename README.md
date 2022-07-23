@@ -10,6 +10,7 @@
 - Easy config for set all thing
 
 #### Log configuration:
+```
 - Open `config.lua`
 ```
 
