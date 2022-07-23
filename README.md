@@ -8,9 +8,7 @@
 - Easy config for set all thing
 
 #### Configuration:
-```
 - Open `config.lua`
-```
 
 ### Installation
 - Add this text in your `server.cfg` :
